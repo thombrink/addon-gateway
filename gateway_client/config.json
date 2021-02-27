@@ -1,7 +1,7 @@
 {
   "name": "Solutom gateway client",
   "version": "1",
-  "slug": "solutom_gateway_client",
+  "slug": "gateway_client",
   "description": "Client for the solutom gateway",
   "arch": ["aarch64"],
   "startup": "application",
